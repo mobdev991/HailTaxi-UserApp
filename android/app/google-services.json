@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "241665006118",
+    "firebase_url": "https://hailtaxi-76921-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hailtaxi-76921",
+    "storage_bucket": "hailtaxi-76921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241665006118:android:df0c13b97f33a99bbca4e7",
+        "android_client_info": {
+          "package_name": "com.HaleATaxi.hale_a_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241665006118-lsphuflqiq1qcut4np49e7fj7o0h4uoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.HaleATaxi.hale_a_taxi",
+            "certificate_hash": "243ee650ad6f31c09d40262fc81cfb1de0ff1e96"
+          }
+        },
+        {
+          "client_id": "241665006118-iolidern2v37kea2d3ehk8q12uosf54v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxUFys1TFwZlbbhZUNWlcVfwh53FAvqKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241665006118-iolidern2v37kea2d3ehk8q12uosf54v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241665006118:android:1e2bb0aad05efba5bca4e7",
+        "android_client_info": {
+          "package_name": "com.example.grab_carride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241665006118-dou4c4fhsb4br8cct5s4j7pg7jdbd0r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grab_carride",
+            "certificate_hash": "243ee650ad6f31c09d40262fc81cfb1de0ff1e96"
+          }
+        },
+        {
+          "client_id": "241665006118-iolidern2v37kea2d3ehk8q12uosf54v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxUFys1TFwZlbbhZUNWlcVfwh53FAvqKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241665006118-iolidern2v37kea2d3ehk8q12uosf54v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241665006118:android:0ed8826dc4ff1c84bca4e7",
+        "android_client_info": {
+          "package_name": "com.example.phone_verification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241665006118-iolidern2v37kea2d3ehk8q12uosf54v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxUFys1TFwZlbbhZUNWlcVfwh53FAvqKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241665006118-iolidern2v37kea2d3ehk8q12uosf54v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
